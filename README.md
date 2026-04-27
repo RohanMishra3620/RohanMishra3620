@@ -62,14 +62,4 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/rohan-mishra-757b33265/  
 - 💻 LeetCode: https://leetcode.com/u/Rohan3620/  
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RohanMishra3620/RohanMishra3620/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ⭐ *“Turning Data into Insights & Code into Impact”*
