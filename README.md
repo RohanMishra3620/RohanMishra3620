@@ -6,7 +6,7 @@
 
 ---
 
-🎓 BCA 3rd Semester | CGPA: 9.6  
+🎓 BCA 4th Semester | CGPA: 9.7
 💻 Java | Python | DSA | Web Development  
 📊 Data Science | Machine Learning Enthusiast  
 🚀 Fast Learner | Problem Solver  
